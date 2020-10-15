@@ -4,9 +4,9 @@ A curated list of resources for privacy-preserving machine learning.
 
 See also:
 
-- [awesome-he](https://github.com/jonaschn/awesome-he) - for homomorphic encryption
-- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - for secure multi-party computation
-- [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy) - for differential privacy
+- [awesome-he](https://github.com/jonaschn/awesome-he) - for homomorphic encryption.
+- [awesome-mpc](https://github.com/rdragos/awesome-mpc) - for secure multi-party computation.
+- [awesome-differential-privacy](https://github.com/menisadi/awesome-differential-privacy) - for differential privacy.
 
 which also contain links to some of the (more general purpose) tools often used in with PPML.
 
@@ -19,11 +19,11 @@ which also contain links to some of the (more general purpose) tools often used 
 
 ## Software
 
-- [HE Transformer](https://github.com/NervanaSystems/he-transformer) - homomorphic encryption backend for nGraph
-- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - differential privacy in TensorFlow
-- [TensorFlow Federated](https://github.com/tensorflow/federated) - federated learning in TensorFlow
-- [TF Encrypted](https://github.com/tf-encrypted/) - encrypted machine learning in TensorFlow
-- [PySyft](https://github.com/OpenMined/PySyft) - encrypted, privacy preserving machine learning in PyTorch and TensorFlow
+- [HE Transformer](https://github.com/NervanaSystems/he-transformer) - homomorphic encryption backend for nGraph.
+- [TensorFlow Privacy](https://github.com/tensorflow/privacy) - differential privacy in TensorFlow.
+- [TensorFlow Federated](https://github.com/tensorflow/federated) - federated learning in TensorFlow.
+- [TF Encrypted](https://github.com/tf-encrypted/) - encrypted machine learning in TensorFlow.
+- [PySyft](https://github.com/OpenMined/PySyft) - encrypted, privacy preserving machine learning in PyTorch and TensorFlow.
 
 ## Conferences and Workshops
 
